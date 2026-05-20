@@ -8,6 +8,6 @@ for i in range(2, n):
         break
 
 if flag == 0:
-    print("Prime Number")
+    print("It is a Prime Number")
 else:
-    print("Not Prime")
+    print("It is Not a Prime")
